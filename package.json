@@ -1,0 +1,23 @@
+{
+  "name": "initial_electron",
+  "version": "1.0.0",
+  "description": "Learning how to use electron from doc",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "tst",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RTMadao/learning_electron.git"
+  },
+  "author": "RTMadao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RTMadao/learning_electron/issues"
+  },
+  "homepage": "https://github.com/RTMadao/learning_electron#readme",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
