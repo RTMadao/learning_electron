@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/RTMadao/learning_electron#readme",
   "devDependencies": {
-    "electron": "^9.3.1"
+    "electron": "^15.5.5"
   }
 }
